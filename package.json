@@ -1,0 +1,15 @@
+{
+  "name": "plain-black-and-white",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Plain black and white theme, with no cursor or highlighting. Used when creating plain black and white images of code (can be used with the Screenshot package).",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/plain-black-and-white",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.24.0 <2.0.0"
+  }
+}
