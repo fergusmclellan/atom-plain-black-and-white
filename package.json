@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/plain-black-and-white",
+  "repository": "https://github.com/fergusmclellan/atom-plain-black-and-white.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.24.0 <2.0.0"
